@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Mugala
+- 👀 I’m interested in open source projects.
+- 🌱 I’m a pythonista, I also know JavaScript, html, css and a bit of C++ and Java.
