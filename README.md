@@ -4,3 +4,4 @@
 ```python
 print("You should check out my apps, they're pretty 👀")
 ```
+Occupation: Computer science student at Mulugushi.
